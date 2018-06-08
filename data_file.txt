@@ -5,3 +5,5 @@ This is not bad!
 Another one.
 
 Change 1.
+
+Change 2.
